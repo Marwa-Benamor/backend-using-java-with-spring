@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/sitis_db
+spring.datasource.username=xxxx
+spring.datasource.password=xxxxx
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
